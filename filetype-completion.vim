@@ -2,6 +2,7 @@
 " Author:  Cornelius  <cornelius.howl@gmail.com>
 " Date: 一 12/21 20:29:23 2009
 " Script type: plugin
+" Script id:   2893
 
 " filetype completion hacks
 fun! FiletypeCompletion(lead,cmd,pos)
