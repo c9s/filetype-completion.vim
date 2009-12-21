@@ -2,8 +2,12 @@
 Filetype Completion
 ===================
 `setfiletype` command doesn't provide completion. this plugin provides a way
-for you to set filetype with a command which supports completion. type:
+for you to set filetype with a command which supports completion. just type:
 
     :sft
 
-`:sft` will simply expand to SetFiletype command.
+or 
+
+    :setf
+
+`:sft` or `:setf` will simply expand to SetFiletype command.
